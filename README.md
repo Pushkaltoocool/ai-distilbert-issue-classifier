@@ -89,6 +89,6 @@ Modify the threshold in the classify_with_threshold function to set a desired le
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 Acknowledgements
-HuggingFace Transformers
-HuggingFace Datasets
-PyTorch
+- HuggingFace Transformers
+- HuggingFace Datasets
+- PyTorch
